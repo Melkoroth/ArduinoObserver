@@ -1,2 +1,2 @@
 # ArduinoObserver
-Basic implementation of Observer pattern for Arduino
+Basic implementation of the observer pattern for Arduino
